@@ -1,0 +1,57 @@
+# import random
+
+class ND:
+  def __init__ (self, X, Y):
+    self.X = X
+    self.Y = Y
+    self.ri = None
+    self.rd = None
+
+class Arbol:
+  def insertar_2 (self, X, Y, ND):
+    if (Y <= ND.Y):
+      if (ND.ri is not None):
+        self.insertar_2(X, Y, ND.ri)
+      else:
+        ND.ri = ND(X, Y)
+        self.n = self.n + 1
+    else:
+      if (ND.rd is not None):
+        self.insertar_2(X, Y, ND.rd)
+      else:
+        ND.rd = ND(X, Y)
+        self.n = self.n + 1
+
+  def insertar (self, X, Y):
+    if self.r is None:
+      self.r = ND(X, Y)
+      self.n = self.n + 1
+    else:
+      self.insertar_2(X, Y, self.r)
+
+  def mostrar_2 (self, ND):
+    if ND is not None:
+      self.mostrar_2(ND.ri)
+      print("ND: %d - Peso: %f" % (ND.X, ND.Y))
+      self.mostrar_2(ND.rd)
+
+  def mostrar (self):
+    if self.r is not None:
+      self.mostrar_2(self.r)
+
+  def pesos(self, ND):
+    t = 1
+    if (ND == None):
+      return 1
+    else:
+      t = t * pesos(self.r.ri)
+      print("Totalizado: %f" % t)
+    return t
+
+  def calcular_pesos(self):
+    return self.calcular_pesos(self.r)
+
+  def __init__ (self):
+    self.r = None
+    self.n = 0
+
