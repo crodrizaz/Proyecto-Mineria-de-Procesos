@@ -1,0 +1,117 @@
+id,empresa_id,identificador_negocio,descripcion,tipo,cantidad_detalle,validacion,opcion_igv,comentario_defecto,movimiento_tipo_id,icono,generar_documento_adicional,moneda_id,indicador_imprimir,sunat_tabla_detalle_id,estado,fecha_creacion,usuario_creacion
+6,2,3,"V. Boleta Z. Mall",1,10,1,1,NULL,NULL,"fa fa-circle text-info pull-right",NULL,NULL,2,329,1,"2015-08-25 16:27:38",1
+7,2,4,"V. Factura  Z. Mall",1,20,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,2,NULL,1,"2015-08-25 16:27:38",1
+8,2,NULL,"C. Boleta Z. Mall",4,15,0,1,NULL,NULL,"fa fa-circle text-primary pull-right",NULL,NULL,1,329,1,"2015-08-27 19:06:01",1
+9,2,NULL,"C. Factura  Z. Mall",4,15,0,1,NULL,NULL,"fa fa-circle text-purple pull-right",NULL,NULL,1,NULL,1,"2015-08-27 19:06:01",1
+10,2,9,"Ingreso Z. Mall",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2015-08-27 19:06:01",1
+12,2,6,"Guia de remision  Z. Mall",0,20,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2015-09-08 11:45:04",1
+23,2,1,"Cotizacion  Z. Mall",0,10,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2015-09-15 12:13:15",1
+45,2,NULL,"C. Letra  Z. Mall",6,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2015-09-17 17:27:04",1
+58,2,NULL,"Carga inicial  Z. Mall",0,50,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2015-10-19 17:34:31",1
+104,2,13,"Cotización de compra Z. Mall",0,15,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2015-12-10 15:29:00",1
+108,2,NULL,"Egreso  Z. Mall",8,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,0,NULL,1,"2015-12-18 11:15:24",1
+109,2,NULL,"Ingreso  Z. Mall",7,15,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2015-12-18 11:15:24",1
+119,2,NULL,"Ingreso inicial  Z. Mall",7,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2015-12-21 15:28:15",1
+133,2,8,"Orden de compra  Z. Mall",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,1,NULL,1,"2016-01-05 15:18:43",1
+134,2,NULL,"Depósito  Z. Mall",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-01-05 15:53:35",1
+143,2,NULL,"C. Ticket depósito  Z. Mall",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-01-05 17:46:40",1
+144,2,NULL,"C. Ticket transferencia  Z. Mall",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-01-05 17:46:40",1
+145,2,NULL,"C. Ticket POS  Z. Mall",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-01-05 17:46:40",1
+190,2,2,"Orden de venta  Z. Mall",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,1,NULL,1,"2016-01-29 12:33:56",1
+192,2,22," Nota de salida  Z. Mall",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2016-01-29 17:12:23",1
+195,2,20," VISA Z. Mall",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-02-02 17:00:09",1
+196,2,NULL,"C. Cheque banco  Z. Mall",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-02-02 17:14:13",1
+197,2,11,"Solicitud de cotizacion Z. Mall",0,0,0,1,"Estimado proveedor nos es grato saludarle por medio de la presente y a la vez hacerle llegar la siguiente solicitud.",NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,1,NULL,1,"2016-02-03 16:58:54",1
+234,2,11,"Grilla de productos fabricados Z. Mall",9,0,0,0,NULL,NULL,NULL,NULL,NULL,0,NULL,1,"2016-08-03 15:57:19",1
+235,3,3,"V. Boleta Z. Larco",1,10,1,1,NULL,NULL,"fa fa-circle text-info pull-right",NULL,NULL,2,NULL,1,"2016-11-07 11:27:06",1
+236,3,4,"V. Factura  Z. Larco",1,20,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,2,NULL,1,"2016-11-07 11:27:06",1
+237,3,NULL,"C. Boleta Z. Larco",4,15,0,1,NULL,NULL,"fa fa-circle text-primary pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:06",1
+238,3,NULL,"C. Factura  Z. Larco",4,15,0,1,NULL,NULL,"fa fa-circle text-purple pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:06",1
+239,3,9,"Ingreso Z. Larco",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2016-11-07 11:27:06",1
+240,3,6,"Guia de remision  Z. Larco",0,20,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:06",1
+242,3,1,"Cotizacion  Z. Larco",0,10,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2016-11-07 11:27:07",1
+243,3,NULL,"C. Letra  Z. Larco",6,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+244,3,NULL,"Carga inicial  Z. Larco",0,50,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+247,3,13,"Cotización de compra Z. Larco",0,15,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2016-11-07 11:27:07",1
+248,3,NULL,"Egreso  Z. Larco",8,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+249,3,NULL,"Ingreso  Z. Larco",7,15,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+250,3,NULL,"Ingreso inicial  Z. Larco",7,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+251,3,8,"Orden de compra  Z. Larco",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+252,3,NULL,"Depósito Z. Larco",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+253,3,NULL,"C. Ticket depósito  Z. Larco",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+254,3,NULL,"C. Ticket transferencia  Z. Larco",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:07",1
+255,3,NULL,"C. Ticket POS  Z. Larco",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:08",1
+257,3,2,"Orden de venta  Z. Larco",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:08",1
+258,3,22," Nota de salida  Z. Larco",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:08",1
+259,3,20," VISA Z. Larco",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:08",1
+260,3,NULL,"C. Cheque banco  Z. Larco",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:08",1
+261,3,11,"Solicitud de cotizacion Z. Larco",0,0,0,1,"Estimado proveedor nos es grato saludarle por medio de la presente y a la vez hacerle llegar la siguiente solicitud.",NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:08",1
+265,4,NULL,"C. Boleta Z. Santa Ines",4,15,0,1,NULL,NULL,"fa fa-circle text-primary pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:21",1
+266,4,NULL,"C. Factura  Z. Santa Ines",4,15,0,1,NULL,NULL,"fa fa-circle text-purple pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:21",1
+267,4,9,"Ingreso Z. Santa Ines",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2016-11-07 11:27:21",1
+268,4,6,"Guia de remision  Z. Santa Ines",0,20,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:21",1
+271,4,NULL,"C. Letra  Z. Santa Ines",6,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:21",1
+272,4,NULL,"Carga inicial  Z. Santa Ines",0,50,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:21",1
+275,4,13,"Cotización de compra Z. Santa Ines",0,15,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+276,4,NULL,"Egreso  Z. Santa Ines",8,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+277,4,NULL,"Ingreso  Z. Santa Ines",7,15,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+278,4,NULL,"Ingreso inicial  Z. Santa Ines",7,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+279,4,8,"Orden de compra  Z. Santa Ines",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+280,4,NULL,"Depósito Z. Santa Ines",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+281,4,NULL,"C. Ticket depósito  Z. Santa Ines",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+282,4,NULL,"C. Ticket transferencia  Z. Santa Ines",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+283,4,NULL,"C. Ticket POS  Z. Santa Ines",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:22",1
+286,4,22," Nota de salida  Z. Santa Ines",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:23",1
+287,4,20," VISA Z. Santa Ines",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:23",1
+288,4,NULL,"C. Cheque banco  Z. Santa Ines",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:23",1
+289,4,11,"Solicitud de cotizacion Z. Santa Ines",0,0,0,1,"Estimado proveedor nos es grato saludarle por medio de la presente y a la vez hacerle llegar la siguiente solicitud.",NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2016-11-07 11:27:23",1
+291,2,21,"Cortesía Z. Mall",0,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-01-18 15:36:26",1
+292,2,23,"Pedido personalizado Z. Mall",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-left",NULL,NULL,1,NULL,1,"2017-01-18 20:22:17",1
+293,2,NULL,"Transferencia Z. Mall",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-02-24 10:10:28",1
+294,2,NULL,"Recepción de transferencia Z. Mall",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-02-24 10:54:33",1
+295,3,23,"Pedido personalizado Z. Larco",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-left",NULL,NULL,1,NULL,1,"2017-03-08 15:49:56",1
+296,3,21,"Cortesía Z. Larco",0,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-03-09 09:11:44",1
+297,4,21,"Cortesía Z. Santa Ines",0,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-03-09 09:11:47",1
+298,3,NULL,"Transferencia Z. Larco",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-03-09 09:56:25",1
+299,4,NULL,"Transferencia Z. Santa Ines",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-03-09 09:56:27",1
+300,3,NULL,"Recepción de transferencia Z. Larco",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-03-09 10:22:22",1
+301,4,NULL,"Recepción de transferencia Z. Santa Ines",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-03-09 10:22:24",1
+302,2,24,"Ingreso sistema Z. Mall",7,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"0000-00-00 00:00:00",1
+303,2,24,"Salida sistema Z. Mall",8,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"0000-00-00 00:00:00",1
+304,3,24,"Ingreso sistema Z. Larco",7,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"0000-00-00 00:00:00",1
+305,3,24,"Salida sistema Z. Larco",8,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"0000-00-00 00:00:00",1
+306,2,23,"Descargo de pedido Z. Mall",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-05-16 08:49:52",1
+307,3,23,"Descargo de pedido Z. Larco",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-05-16 08:50:16",1
+308,4,23,"Descargo de pedido Z. S. Ines",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-05-16 08:50:16",1
+309,2,1,"Pedidos a taller Z. Mall",0,10,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-01-18 20:22:17",1
+310,3,1,"Pedidos a taller Z. Larco",0,10,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-03-08 15:49:56",1
+311,5,13,"Cotización de compra Z. Golf",0,15,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-11-07 10:27:29",1
+312,5,8,"Orden de compra  Z. Golf",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,1,NULL,1,"2017-11-07 10:57:28",1
+313,5,NULL,"C. Boleta Z. Golf",4,15,0,1,NULL,NULL,"fa fa-circle text-primary pull-right",NULL,NULL,1,NULL,1,"2017-11-07 11:06:42",1
+314,5,NULL,"C. Factura  Z. Golf",4,15,0,1,NULL,NULL,"fa fa-circle text-purple pull-right",NULL,NULL,1,NULL,1,"2017-11-07 11:06:42",1
+315,5,1,"Cotizacion  Z. Golf",0,10,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-11-07 12:40:50",1
+316,5,2,"Orden de venta  Z. Golf",0,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,1,NULL,1,"2017-11-07 12:52:16",1
+319,5,3,"V. Boleta Z. Golf",1,10,1,1,NULL,NULL,"fa fa-circle text-info pull-right",NULL,NULL,2,NULL,1,"2017-11-07 15:21:21",1
+320,5,4,"V. Factura  Z. Golf",1,20,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,2,NULL,1,"2017-11-07 15:21:21",1
+321,5,23,"Pedido personalizado Z. Golf",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-left",NULL,NULL,1,NULL,1,"2017-11-07 15:29:07",1
+322,5,23,"Descargo de pedido Z. Golf",0,15,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:03:36",1
+323,5,1,"Pedidos a taller Z. Golf",0,10,1,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:12:17",1
+324,5,NULL,"Carga inicial  Z. Golf",0,50,0,1,NULL,NULL,"fa fa-circle text-warning pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:37:07",1
+325,5,24,"Ingreso sistema Z. Golf",7,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:39:02",1
+326,5,24,"Salida sistema Z. Golf",8,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:41:04",1
+327,5,6,"Guia de remision  Z. Golf",0,20,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2017-11-07 16:47:55",1
+328,5,22," Nota de salida  Z. Golf",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:47:55",1
+329,5,9,"Ingreso Z. Golf",0,50,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-11-07 16:53:05",1
+330,5,21,"Cortesía Z. Golf",0,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2017-11-07 17:00:02",1
+331,5,NULL,"Transferencia Z. Golf",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-11-07 17:02:30",1
+332,5,NULL,"Recepción de transferencia Z. Golf",0,20,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,2,1,NULL,1,"2017-11-07 17:06:33",1
+333,5,NULL,"Egreso  Z. Golf",8,15,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,0,NULL,1,"2017-11-07 17:38:41",1
+334,5,NULL,"Ingreso  Z. Golf",7,15,0,1,NULL,NULL,"fa fa-circle text-pink pull-right",NULL,NULL,0,NULL,1,"2017-11-07 17:38:41",1
+335,5,NULL,"Depósito  Z. Golf",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 17:56:29",1
+336,5,20," VISA Z. Golf",2,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 17:56:29",1
+337,5,NULL,"C. Letra  Z. Golf",6,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 18:01:48",1
+338,5,NULL,"C. Ticket depósito  Z. Golf",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 18:01:49",1
+339,5,NULL,"C. Ticket transferencia  Z. Golf",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 18:01:49",1
+340,5,NULL,"C. Ticket POS  Z. Golf",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 18:01:49",1
+341,5,NULL,"C. Cheque banco  Z. Golf",5,15,0,1,NULL,NULL,"fa fa-circle text-inverse pull-right",NULL,NULL,0,NULL,1,"2017-11-07 18:01:49",1
+342,4,NULL,Producción,0,25,0,1,NULL,NULL,"fa fa-circle text-success pull-right",NULL,NULL,1,NULL,1,"2018-01-09 19:44:34",1

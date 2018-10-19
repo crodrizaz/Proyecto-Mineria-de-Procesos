@@ -1,0 +1,14 @@
+id,descripcion,icono,color,funcion,email_plantilla_id,estado,fecha_creacion,usuario_creacion
+1,Imprimir,"fa fa-print",#088A08,imprimirDocumento,NULL,1,"2015-09-25 09:54:49",1
+2,Visualizar,"fa fa-eye",#1ca8dd,visualizarDocumento,NULL,1,"2015-09-25 09:54:49",1
+3,Anular,"fa fa-ban",#cb2a2a,anularDocumento,NULL,1,"2015-09-25 09:54:49",1
+4,Aprobar,ion-checkmark-circled,#5cb85c,aprobarDocumento,NULL,1,"2015-09-25 09:54:49",1
+5,Relación,ion-android-share,#E8BA2F,obtenerDocumentosRelacionados,NULL,1,"2015-09-28 16:26:24",1
+6,Guardar,"fa fa-send-o",NULL,enviar,NULL,1,"2016-03-21 09:13:43",1
+7,"Enviar con PDF","fa fa-file-pdf-o",#cb2a2a,enviarPDF,7,1,"2016-03-21 09:30:52",1
+9,Enviar,ion-email,#1ca8dd,enviarCorreo,3,1,"2016-03-21 09:30:52",1
+10,"Guardar e imprimir","fa fa-print",#615ca8,enviarEImprimir,NULL,1,"2016-03-21 09:30:52",1
+12,"Enviar correo mas PDF","fa fa-file-pdf-o",#E8BA2F,enviarCorreoPDF,3,1,"2016-06-21 16:16:41",1
+13,"Guardar con puntos",ion-ios7-keypad,#3bc0c3,enviarPuntos,NULL,1,"2017-01-18 19:53:34",1
+14,"Editar documento","fa fa-edit",#E8BA2F,editarDocumento,NULL,1,"2017-01-19 09:57:34",1
+15,"Atender pedido","fa fa-ticket",#615ca8,atenderPedido,NULL,1,"2017-03-10 19:37:35",1

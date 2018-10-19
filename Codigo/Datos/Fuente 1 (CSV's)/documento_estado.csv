@@ -1,0 +1,7 @@
+id,descripcion,listar_reporte,estado
+1,Registrado,1,1
+2,Anulado,0,1
+3,Aprobado,1,1
+4,"Pendiente de atencion",1,1
+5,Producido,1,1
+6,Atendido,1,1
